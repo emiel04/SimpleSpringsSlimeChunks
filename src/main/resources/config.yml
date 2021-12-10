@@ -1,0 +1,3 @@
+chunkmessage: 'Your slime chunk is at &l%coordinates%'
+itemname: '&l&nClick &rto get the closest &a&lslime &rchunk!'
+particleduration: 60

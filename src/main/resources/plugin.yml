@@ -1,0 +1,11 @@
+name: SimpleSlimechunks
+version: '${project.version}'
+main: me.justkilling.simpleslimechunks.SimpleSlimechunks
+api-version: 1.18
+authors: [ JustKilling ]
+description: Find slimechunks by click on paper
+website: play.simplesprings.xyz
+commands:
+  getslimechunk:
+    description: Get a slime chunk.
+    usage: "/<command>"
